@@ -1,0 +1,9 @@
+--- Server/Bob ---
+Bob: Got from Alice: 321320
+Bob: Sending: 421604
+Bob: Shared key: 154999
+
+--- Client/Alice ---
+Alice: Sending: 321320
+Alice: Got from Bob: 421604
+Alice: Shared key: 154999
