@@ -1,0 +1,12 @@
+--- Alice ---
+Alice: Sending certificate
+Alice: Received certificate
+Alice: Sending secret and message hash
+Alice: Received message hash
+Message hash verification failed
+
+--- Bob ---
+Bob: Received certificate
+Bob: Sending certificate
+Bob: Received message hash and secret
+Message hash verification failed

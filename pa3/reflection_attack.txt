@@ -1,0 +1,18 @@
+--- Trudy ---
+Trudy: Sending to Bob on conn.1
+Trudy: Receiving from Bob on conn.1
+Trudy: Opening new connection
+Trudy: Sending to Bob on conn.2
+Trudy: Receiving from Bob on conn.2
+Trudy: Sending final to Bob on conn.1
+Trudy: Done
+
+--- Bob ---
+Bob: Getting ticket
+Bob: Sending validation to client
+Bob: Getting last validation
+Bob: Getting ticket
+Bob: Sending validation to client
+Bob: Getting last validation
+Bob: Client validation failed
+Bob: Done

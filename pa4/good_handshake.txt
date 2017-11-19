@@ -1,0 +1,13 @@
+--- Alice ---
+Alice: Sending certificate
+Alice: Received certificate
+Alice: Sending secret and message hash
+Alice: Received message hash
+Alice: Handshake accepted
+
+--- Bob ---
+Bob: Received certificate
+Bob: Sending certificate
+Bob: Received message hash and secret
+Bob: Sending message hash
+Bob: Handshake accepted

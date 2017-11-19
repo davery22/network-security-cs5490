@@ -1,0 +1,20 @@
+--- Alice ---
+Alice: Requesting to KDC
+Alice: Getting response from KDC
+Alice: Sending to Bob
+Alice: Receiving from Bob (Kab{N2-1, N3}):
+  ca:8e:32:87:0a:fd:25:ca:01:20:d1:ba:36:a1:00:d9
+Alice: Sending final to Bob (Kab{N3-1}):
+  91:fe:61:0f:28:09:1b:78
+Alice: Done
+
+--- KDC ---
+KDC: Receiving request
+KDC: Sending ticket
+KDC: Done
+
+--- Bob ---
+Bob: Getting ticket
+Bob: Sending validation to client
+Bob: Getting last validation
+Bob: Done
