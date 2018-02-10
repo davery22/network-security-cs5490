@@ -3,5 +3,7 @@
 *~
 .*~
 hw*
+*.doc*
 *.pdf
+proj/data
 venv*
